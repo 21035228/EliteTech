@@ -1,5 +1,5 @@
-# EliteTech
-Internship
+# EliteTech-Internship
+This repository contains five different tools, each designed for a specific purpose.
 
 <b>Tools Overview:</b>
 Tool 1: Caesar Cipher Encryptor and Decryptor
@@ -33,12 +33,12 @@ Tool 5: Packet Sniffer and Network Analyzer
 <b>Tool 3: Password Strength Checker</b>
 <p>A password is said to be strong if it satisfies the following criteria: </p>
 
-1.It contains at least one lowercase English character.
-2.It contains at least one uppercase English character.
-3.It contains at least one special character. The special characters are: !@#$%^&*()-+
-4.Its length is at least 8.
-5.It contains at least one digit.
-6.Given a string, find its strength. Let a strong password is one that satisfies all above conditions. A moderate password is one that satisfies first three conditions and has length at least 6. Otherwise password is weak.
+<ol>1.It contains at least one lowercase English character.</ol>
+<ol>2.It contains at least one uppercase English character.</ol>
+<ol>3.It contains at least one special character. The special characters are: !@#$%^&*()-+</ol>
+<ol>4.Its length is at least 8.</ol>
+<ol>5.It contains at least one digit.</ol>
+<ol>6.Given a string, find its strength. Let a strong password is one that satisfies all above conditions. A moderate password is one that satisfies first three conditions and has length at least 6. Otherwise password is weak.</ol>
 
 Examples : 
 Input : “GeeksforGeeks!@12”
